@@ -1,14 +1,8 @@
-﻿##About me
+﻿## About me
 
-“I am [Norman Benet](https://es.linkedin.com/in/NormanBenet), student of the
+I am [Norman Benet](https://es.linkedin.com/in/NormanBenet), student of the
 [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
-subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).”
-
- 1st - Creating the platformer itself, with a moving character and a special ability (double jump, dash, etc).
- 
- 2nd - Adding enemies with pathfinding (flying and walking enemy).
- 
- 3rd - Adding UI system and menus to control the game.
+subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## Teaser Trailer
 
