@@ -1,4 +1,4 @@
-﻿# **Not A Typical Platformer** (N.A.T.P)
+﻿# **PRODUCTION PLAN** 
 It is a platformer game done for the assignments of the videogames development subject in the UPC.
 It consisted on 3 deliveries:
 
