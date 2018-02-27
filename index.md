@@ -1,6 +1,11 @@
-﻿# **PRODUCTION PLAN** 
-It is a platformer game done for the assignments of the videogames development subject in the UPC.
-It consisted on 3 deliveries:
+﻿##About me
+
+www.linkedin.com/in/norman-benet-gonzález-99b62315a
+“I am <https://es.linkedin.com/in/NormanBenet>(Norman Benet), student of the
+<https://www.citm.upc.edu/ing/estudis/graus-videojocs/>(Bachelor’s Degree in
+Video Games by UPC at CITM). This content is generated for the second year’s
+subject Project 2, under supervision of lecturer
+<https://es.linkedin.com/in/ricardpillosu>(Ricard Pillosu).”
 
  1st - Creating the platformer itself, with a moving character and a special ability (double jump, dash, etc).
  
