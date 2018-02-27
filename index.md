@@ -15,7 +15,9 @@ It serves as a comprehensive task list of everything that needs to be implemente
 
 Once the Game Design Document (GDD) and the Tech Design Document (TDD) are done, there is enough information to determine the real staff size. Knowing the members of the team, is the time to make the production plan for having all under control (or at least thinking we have it).
 
-HOW TO PUT A VIDEO: <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
+HOW TO PUT A VIDEO: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
 
 ### Game Controls
 **A** - Move player to the left.
