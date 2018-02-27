@@ -6,12 +6,15 @@ I am [Norman Benet](https://es.linkedin.com/in/NormanBenet), student of the
 [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-## To start, here it is a brief explanation of a production plan:
+## To start, here it is a brief explanation of production plan:
 
 It is a document created collaborative among the team (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
 It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
 
 ##  When it is done? 
+
+Once the Game Design Document (GDD) and the Tech Design Document (TDD) are done, there is enough information to determine the real staff size. Knowing the members of the team, is the time to make the production plan for having all under control (or at least thinking we have it).
+
 HOW TO PUT A VIDEO: <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
 
 ### Game Controls
