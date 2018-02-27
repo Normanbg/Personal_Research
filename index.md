@@ -8,10 +8,8 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 ## What is a Production Plan?
 
-A document created collaborative among the team (if is a small team with hole team, if it is a big one with the leads of each section), as it effects each member of the team directly.
-It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a men-month requirement individually to help to define a most likely rough timeline for the development engagement.
-## Teaser Trailer
-
+A document created collaborative among the team (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
+It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
 
 ### Game Controls
