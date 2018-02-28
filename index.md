@@ -14,9 +14,8 @@ There are professional project management tools like Jira or MS Project that hel
 
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 
-##  When it is done? 
+## Aspects to take in account when doing a production plan:
 
-Once the Game Design Document (GDD) and the Tech Design Document (TDD) are done, there is enough information to determine the real staff size. Knowing the members of the team, is the time to make the production plan for having all under control (or at least thinking we have it).
 
 HOW TO PUT A VIDEO: 
 
@@ -72,13 +71,13 @@ Simple entity system for player, thought to hold more entity types.
 
 **2nd Assignment**
 
-- Logic for entities(animations, speed, jump force and collider size and position) is defined in tiled.
+· Logic for entities(animations, speed, jump force and collider size and position) is defined in tiled.
 
 	Their position on the map is also defined in tiled.
 
-- When god mode is activated and the player dies or falls out of the map, he will reappear in the further platform that he has reached.
+· When god mode is activated and the player dies or falls out of the map, he will reappear in the further platform that he has reached.
 
-- When an enemy does not found a path to the player, after 1.5 seconds it will start flying/walking around.
+· When an enemy does not found a path to the player, after 1.5 seconds it will start flying/walking around.
 
 		Charger(Boar): Will walk along all the platform in each directions.
 
