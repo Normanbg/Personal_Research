@@ -13,7 +13,7 @@ It serves as a comprehensive task list of everything that needs to be implemente
 There are professional project management tools like Jira or MS Project that helps the production plan. But, the simple spreadsheet production plan is a decent solution that works in a snap.
 
 <img src="https://i.imgur.com/fLrgxGX.jpg">
-*Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
+*Example of a simple Gantt chart in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
 
 ## 5 Aspects to take in account for doing a production plan:
 
