@@ -99,7 +99,7 @@ These is the order to follow to make a good Production plan: Initial planning, F
 
 ## Way to make easier your Production plan:
 
-*Q*uality, *C*ost, *D*elivery (QCD):
+**Q**uality, **C**ost, **D**elivery (QCD):
 
 Is an analysis used to assess different components of the production process. **Quality** refers to the attribute expected by the client, **Cost** refers to the appropriate resource required to undertake the service and **Delivery** specify distributing completed service to client in a timely style. 
 
