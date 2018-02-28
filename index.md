@@ -74,11 +74,13 @@ The buffer could be this: **_YOUR ESTIMATE + 20%_**.
 
 <img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
 
-These is the order that a production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
+These is the order that a Production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
 
 ·**INITIAL PLANNING**: The design framework laid at the origin of the project will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
 
-·**FEATURE LIST**: Once the GDD is done, analyze it and determine the game's list of requirements. Each requirement needs to be splited into a list of features that will be required to implement it.
+·**FEATURE LIST**: Once the GDD and TDD are done, analyze it and determine the game's list of requirements. Each requirement needs to be splited into a list of features that will be required to implement it.
+
+·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. 
 
 ·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for each task and assign them to team members. This complete, he must ensure, with the members of his team, that his estimates are correct and reasonable.
 
@@ -89,7 +91,7 @@ These is the order that a production plan: Initial planning, Feature list, Assig
 ·**MILESTONES**: Indicates the percentatge of the tasks have been compeleted. Gives the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the beggining to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
 
-
+## Way to make easier your Production plan:
 
 
 
