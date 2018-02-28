@@ -83,6 +83,7 @@ These is the order that a Production plan: Initial planning, Feature list, Assig
 ·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. 
 
 <img src="https://i.imgur.com/RDvNStf.png"> 
+
 *Image from a [video](https://www.youtube.com/watch?v=VGreTjoWOBI) about man-month*.
 
 ·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for each task and assign them to team members. This complete, he must ensure, with the members of his team, that his estimates are correct and reasonable.
