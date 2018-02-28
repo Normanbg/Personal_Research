@@ -8,9 +8,9 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 ## To start, here it is a brief explanation of production plan on videogames:
 
-It is a document created **collaborative among the team** (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
+It is a document created **collaborative among the team** (if it is a small team, it will be done with the whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
 It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
-There are professional project management tools like Jira or MS Project that helps the production plan, but the simple spreadsheet production plan is a decent solution that works in a snap.
+There are professional project management tools like Jira or MS Project that helps the production plan. But, the simple spreadsheet production plan is a decent solution that works in a snap.
 
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 *Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
@@ -38,7 +38,7 @@ It is done at the earliest of the pipeline, on the pre-production, to have a sch
 
 ### Third:
 
-The production plan estimates the cost of the total production of the game. A simple list of costs on making a game could be this one:
+The production plan estimates the expenditure of the total production of the game. A simple list of costs on making a game could be this one:
 
 Organized by categories the costs are the following:
 
@@ -60,17 +60,17 @@ The budget could be divided in 5 branches:
 
 ### Fourth
 
-Momentarily, we know basically how the costs are broken. The aim of the production plan is not leaving anything open and contemplate all the possible problems and their solutions. I will like to mention a sentence that reflects what, probably, will happen if there are open parts of the plan:
+Momentarily, we basically comprehend how the costs are broken. The aim of the production plan is not leaving anything open and contemplate all the hypothetical problems and their solutions. I would like to mention a sentence that reflects what, probably, will happen if there are vulnerable parts of the plan:
 
 -*Anything that can go wrong will go wrong* - Murphy's Law.
 
 ### Fifth
 
-Production schedules are, by their nature, imprecise, as it is entirely based on estimates and not actual development. This directly means that when you make a schedule, give a development time buffer. You will be glad you did. 
+Production schedules are by their nature imprecise, as it is entirely based on estimates and not actual development. This directly means that when you make a schedule, give a development time buffer. You will be glad you did. 
 
 The buffer could be this: **_YOUR ESTIMATE + 20%_**. 
 
-
+## What should Production Plan has to contain?
 
 HOW TO PUT A VIDEO: 
 
