@@ -114,7 +114,7 @@ If you are attending to the presentation, enter [here](https://goo.gl/forms/sDCB
 
 See the video below to know all the aspects to take in account: 
 
-<iframe width="560" height="315" src="https://youtu.be/ZGxIpzzLo4k?t=13s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/ZGxIpzzLo4k" frameborder="0" allowfullscreen></iframe>
 
 ## Bibliography: 
 - [https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php](https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php)
