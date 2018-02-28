@@ -16,15 +16,18 @@ There are professional project management tools like Jira or MS Project that hel
 
 ## Aspects to take in account when doing a production plan:
 
-First of all, we have to know that game production pipeline is divided in 3 branches:
+First of all, we have to know that the game production pipeline is divided into 3 branches:
 
-1·**PRE-PRODUCTION:** first, is time to have just an idea of a game from where to start building (e.g. “Make a game about number matching”).Having this, is time to define all the details and came out with a **solid** game concept. Documents like [Game Design Document](https://en.wikipedia.org/wiki/Game_design_document), [Technical Design Document](https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd), [Paper Prototype](http://gamedevelopertips.com/paper-prototyping-game-development/) are done here.
+1·**PRE-PRODUCTION:** is time to have just an idea of a game from where to start building (e.g. “Make a game about number matching”).Having this, it is time to define all the details and came out with a **solid** game concept. Documents like [Game Design Document "GDD"](https://en.wikipedia.org/wiki/Game_design_document), [Technical Design Document "TDD"](https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd), [Paper Prototype](http://gamedevelopertips.com/paper-prototyping-game-development/) are done here.
 
 2·**PRODUCTION:** here is where the designer, engineers, producers and basically all the members of the team will work together to bring the game to life. It is important to know that changes in this phase will cost a lot in terms of time and money to invest.
 
-3·**POST-PRODUCTION:** is the time to get your game to an audience as large as possible and first, solve all the bugs posible with testers on a Beta. Then, the game is ready to buy. Developers can add new features to expand the game in order to increase the retention of the game.
+3·**POST-PRODUCTION:** is the time to get your game to an audience as large as possible and first, solve all the bugs possible with testers on a Beta. Then, the game is ready to buy. Developers can add new features to expand the game in order to increase the retention of the game.
 
- 
+Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
+
+It can be done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
+
 HOW TO PUT A VIDEO: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
