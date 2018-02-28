@@ -70,17 +70,17 @@ Production schedules are by their nature imprecise, as it is entirely based on e
 
 The buffer could be this: **_YOUR ESTIMATE + 20%_**. 
 
-## Order to make a good Production plan:
+## Order & Must-haves to make a good Production plan:
 
 <img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
 
-These is the order to follow to make a good Production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
+These is the order and the must-haves to follow to make a good Production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
 
 ·**INITIAL PLANNING**: The design framework laid at the origin of the proposal will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
 
 ·**FEATURE LIST**: Once the GDD and TDD are done, analyze it and determine the game's list of requirements. Each requirement needs to be splited into a list of features that will be required to implement it.
 
-·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. A good thing to use is the man-month, the [definition](https://en.wiktionary.org/wiki/man-month) is *One person's working time for a month, or the equivalent, used as a measure of how much work or labor is required or consumed to perform some task*. It is a **unit of cost**, not a unit of time.
+·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. A good thing to use is the man-month, the [definition](https://en.wiktionary.org/wiki/man-month) is *"One person's working time for a month, or the equivalent, used as a measure of how much work or labor is required or consumed to perform some task"*. It is a **unit of cost**, not a unit of time.
 
 <img src="https://i.imgur.com/RDvNStf.png"> 
 
