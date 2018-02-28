@@ -66,7 +66,7 @@ Momentarily, we know basically how the costs are broken. The aim of the producti
 
 ### Fifth
 
-Production schedules are, by their nature, imprecise, as it is entirely based on estimates and not actual development. This directly says that when you make a schedule, give a development time buffer. You will be glad you did. 
+Production schedules are, by their nature, imprecise, as it is entirely based on estimates and not actual development. This directly means that when you make a schedule, give a development time buffer. You will be glad you did. 
 
 The buffer could be this: **_YOUR ESTIMATE + 20%_**. 
 
