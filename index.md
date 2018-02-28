@@ -17,7 +17,7 @@ There are professional project management tools like Jira or MS Project that hel
 
 ## Aspects to take in account when doing a production plan:
 
-# First of all:
+### First of all:
 
 We have to know that the game production pipeline is divided into 3 branches:
 
@@ -30,13 +30,13 @@ We have to know that the game production pipeline is divided into 3 branches:
 <img src="http://1.bp.blogspot.com/-rneaL5NCyx8/VdzlLlCT_FI/AAAAAAAAARg/i2LjDE9nG7U/s640/six%2Bsigma.jpg">
 *Image from [Oniralia Blogspot](http://oniralia.blogspot.com.es/)*
 
-# Second:
+### Second:
 
 Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
 
 It is done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
 
-# Third:
+### Third:
 
 The production plan estimates the cost of the total production of the game. A simple list of costs on making a game could be this one:
 
@@ -58,13 +58,13 @@ The budget could be divided in 5 branches:
 
 5·**TRAVEL & ENTERTAINTMENT**.
 
-# Fourth
+### Fourth
 
 Momentarily, we know basically how the costs are broken. The aim of the production plan is not leaving anything open and contemplate all the possible problems and their solutions. I will like to mention a sentence that reflects what, probably, will happen if there are open parts of the plan:
 
 -*Anything that can go wrong will go wrong* - Murphy's Law.
 
-# Fifth
+### Fifth
 
 Production schedules are, by their nature, imprecise, as it is entirely based on estimates and not actual development. This directly says that when you make a schedule, give a development time buffer. You will be glad you did. 
 
