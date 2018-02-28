@@ -15,7 +15,7 @@ There are professional project management tools like Jira or MS Project that hel
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 *Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
 
-## Aspects to take in account when doing a production plan:
+## 5 Aspects to take in account when doing a production plan:
 
 ### First of all:
 
