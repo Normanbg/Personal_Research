@@ -74,28 +74,39 @@ The buffer could be this: **_YOUR ESTIMATE + 20%_**.
 
 <img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
 
-These is the order that a Production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
+These is the order to follow to make a good Production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
 
-·**INITIAL PLANNING**: The design framework laid at the origin of the project will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
+·**INITIAL PLANNING**: The design framework laid at the origin of the proposal will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
 
 ·**FEATURE LIST**: Once the GDD and TDD are done, analyze it and determine the game's list of requirements. Each requirement needs to be splited into a list of features that will be required to implement it.
 
-·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. 
+·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. A good thing to use is the man-month, the [definition](https://en.wiktionary.org/wiki/man-month) is *One person's working time for a month, or the equivalent, used as a measure of how much work or labor is required or consumed to perform some task*. It is a **unit of cost**, not a unit of time.
 
 <img src="https://i.imgur.com/RDvNStf.png"> 
 
 *Image from a [video](https://www.youtube.com/watch?v=VGreTjoWOBI) about man-month*.
 
-·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for each task and assign them to team members. This complete, he must ensure, with the members of his team, that his estimates are correct and reasonable.
+·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team, the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for every task and assign them to team members. After this, he must ensure, with the members of his team, that his estimates are correct and reasonable.
 
 ·**DEPENDENCIES**: Project manager takes all the task estimates and place them into a project management software (Jira, MS Project, Excel or similars). Once this is done, the manager **must** look at the tasks and match dependencies between teams. Doing that prevents creating a feature before that it is needed (e.g. To fully implement a racing game, you would not schedule the coding of fuel durability before the physics system is complete).  
 
-·**SCHEDULE**: Here things get particularly complicated. Manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
+·**SCHEDULE**: Here things get particularly complicated. The manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
 
-·**MILESTONES**: Indicates the percentatge of the tasks have been compeleted. Gives the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the beggining to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
+<img src="http://eventcrowd.com/blog/wp-content/uploads/2016/11/Every-Event-Manager-Dreads-These-Painful-Moments-768x380.jpg"> *It will be frustrating to complete this part, but the more accurate it is the better results you will obtain*.
+
+·**MILESTONES**: Indicate the percentage of the tasks have been compeleted. Give the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually, a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the begininng to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
 
 ## Way to make easier your Production plan:
+
+*Q*uality, *C*ost, *D*elivery (QCD):
+
+-Is an analysis used to assess different components of the production process. **Quality** refers to the attribute expected by the client, **Cost** refers to the appropriate resource required to undertake the service and **Delivery** specify distributing completed service to client in a timely style. 
+
+Quality on video games is difficult to analyse. But being on time and under budget is where you are going to have a game that is, actually, going to ship or not.  The Cost & Delivery are the most important here (unless you have unlimited money and time), the way to measure these things are the man-month before mentioned and directly reflects the common sentence "*Time is money*".
+
+<img src="http://bw-insights.com/templates/themes/images/quality.png">
+*Image from [B World Insights](http://bw-insights.com/qcd.html)*.
 
 
 
