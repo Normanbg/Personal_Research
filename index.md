@@ -82,6 +82,9 @@ These is the order that a Production plan: Initial planning, Feature list, Assig
 
 ·**STAFFING PLAN**: Lists where and when is the full-time staff required. Largest part of the budget is for employee's salaries. 
 
+<img src="https://i.imgur.com/RDvNStf.png"> 
+*Image from a [video](https://www.youtube.com/watch?v=VGreTjoWOBI) about man-month*.
+
 ·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for each task and assign them to team members. This complete, he must ensure, with the members of his team, that his estimates are correct and reasonable.
 
 ·**DEPENDENCIES**: Project manager takes all the task estimates and place them into a project management software (Jira, MS Project, Excel or similars). Once this is done, the manager **must** look at the tasks and match dependencies between teams. Doing that prevents creating a feature before that it is needed (e.g. To fully implement a racing game, you would not schedule the coding of fuel durability before the physics system is complete).  
