@@ -15,7 +15,7 @@ There are professional project management tools like Jira or MS Project that hel
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 *Example of a simple Gantt chart in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
 
-## 5 Aspects to take in account for doing a production plan:
+## 5 Aspects to take into account for doing a production plan:
 
 ### First of all:
 
@@ -90,13 +90,13 @@ These is the order and the must-haves to follow to make a good Production plan: 
 
 ·**DEPENDENCIES**: Project manager takes all the task estimates and place them into a project management software (Jira, MS Project, Excel or similars). Once this is done, the manager **must** look at the tasks and match dependencies between teams. Doing that prevents creating a feature before that it is needed (e.g. To fully implement a racing game, you would not schedule the coding of fuel durability before the physics system is complete).  
 
-·**SCHEDULE**: Here things get particularly complicated. The manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
+·**SCHEDULE**: Here things get particularly complicated. The manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the risk & contigency list, giving buffer to the schedule for red flags (things that will take more time than the estimated) like Team conflicts, Personnel issues, Delay on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
 
 <img src="http://eventcrowd.com/blog/wp-content/uploads/2016/11/Every-Event-Manager-Dreads-These-Painful-Moments-768x380.jpg"> *It will be frustrating to complete this part, but the more accurate it is, the better results you will obtain*.
 
 ·**MILESTONES**: Indicate the percentage of the tasks have been compeleted. Give the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually, a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the begininng to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
-<img src="https://i.imgur.com/cg4S3SN.png"> *Example of Production plan with all aspects on [Portal](http://www.valvesoftware.com/games/portal.html)*.
+<img src="https://i.imgur.com/cg4S3SN.png"> *Example of Production plan with all aspects on [Portal](http://www.valvesoftware.com/games/portal.html)*. 
 ## Way to make easier your Production plan:
 
 **Q**uality, **C**ost, **D**elivery (QCD):
@@ -108,16 +108,28 @@ Quality on video games is difficult to analyse. But being on time and under budg
 <img src="http://bw-insights.com/templates/themes/images/quality.png">
 *Image from [B World Insights](http://bw-insights.com/qcd.html)*.
 
+## Exercises to practise:
+
+If you are attending to the presentation, enter [here](https://goo.gl/forms/sDCBfKuKF2oy6UnA3) and submit your response of the exercise. If you are only a reader of this research, try to make the production plan of the game Jetpack Joyride by Halfbrick Studios and send me an email *normanbg98@gmail.com* with the excel document if you want feedback. 
+
+See the video below to know all the aspects to take in account: 
+
+<iframe width="560" height="315" src="https://youtu.be/ZGxIpzzLo4k?t=13s" frameborder="0" allowfullscreen></iframe>
+
+## Bibliography: 
+- [https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php](https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php)
 
 
+- [https://es.slideshare.net/Kelvis2000/game-design-the-production-plan](https://es.slideshare.net/Kelvis2000/game-design-the-production-plan)
 
 
+- [https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf](https://web.cs.wpi.edu/~imgd1001/a08/slides/imgd1001_04_GameDevTimeline.pdf)
 
 
+- [https://www.thoughtco.com/planning-a-game-development-project-1393892](https://www.thoughtco.com/planning-a-game-development-project-1393892)
 
 
+- [http://www.ign.com/articles/2006/03/16/the-game-production-pipeline-concept-to-completion?page=1](http://www.ign.com/articles/2006/03/16/the-game-production-pipeline-concept-to-completion?page=1)
 
 
-HOW TO PUT A VIDEO: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
+- [http://www.cs.ucr.edu/~vbz/production.pdf](http://www.cs.ucr.edu/~vbz/production.pdf)
