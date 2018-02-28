@@ -26,7 +26,32 @@ First of all, we have to know that the game production pipeline is divided into 
 
 Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
 
-It can be done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
+It is done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
+
+The production plan estimates the cost of the total production of the game. A simple list of costs on making a game could be this one:
+
+Organized by categories the costs are the following:
+
+·**FIXED COST:** salaries, electricity, rent of the studio, etc.
+
+·**VARIABLE COST:** software license fees, short-turn contractors, travels, etc.
+
+The budget could be divided in 5 branches:
+
+1·**SALARIES**.
+
+2·**GENERAL & ADMINISTRATIVE**.
+
+3·**RESEARCH & DEVELOPMENT**.
+
+4·**LICENSES**.
+
+5·**TRAVEL & ENTERTAINTMENT**.
+
+
+
+
+
 
 HOW TO PUT A VIDEO: 
 
