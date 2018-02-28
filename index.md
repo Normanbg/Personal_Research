@@ -15,7 +15,7 @@ There are professional project management tools like Jira or MS Project that hel
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 *Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
 
-## 5 Aspects to take in account when doing a production plan:
+## 5 Aspects to take in account for doing a production plan:
 
 ### First of all:
 
@@ -58,13 +58,13 @@ The budget could be divided in 5 branches:
 
 5·**TRAVEL & ENTERTAINTMENT**.
 
-### Fourth
+### Fourth:
 
 Momentarily, we basically comprehend how the costs are broken. The aim of the production plan is not leaving anything open and contemplate all the hypothetical problems and their solutions. I would like to mention a sentence that reflects what, probably, will happen if there are vulnerable parts of the plan:
 
 -*Anything that can go wrong will go wrong* - Murphy's Law.
 
-### Fifth
+### Fifth:
 
 Production schedules are by their nature imprecise, as it is entirely based on estimates and not actual development. This directly means that when you make a schedule, give a development time buffer. You will be glad you did. 
 
@@ -72,6 +72,9 @@ The buffer could be this: **_YOUR ESTIMATE + 20%_**.
 
 ## What should Production Plan has to contain?
 
+<img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
+
+These are what a good Production plan **must** have: Initial planning, Feature list, Break down of tasks, assign tasks, dependencies, schedule, milestones.
 HOW TO PUT A VIDEO: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
