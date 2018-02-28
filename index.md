@@ -92,7 +92,7 @@ These is the order to follow to make a good Production plan: Initial planning, F
 
 ·**SCHEDULE**: Here things get particularly complicated. The manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
 
-<img src="http://eventcrowd.com/blog/wp-content/uploads/2016/11/Every-Event-Manager-Dreads-These-Painful-Moments-768x380.jpg"> *It will be frustrating to complete this part, but the more accurate it is the better results you will obtain*.
+<img src="http://eventcrowd.com/blog/wp-content/uploads/2016/11/Every-Event-Manager-Dreads-These-Painful-Moments-768x380.jpg"> *It will be frustrating to complete this part, but the more accurate it is, the better results you will obtain*.
 
 ·**MILESTONES**: Indicate the percentage of the tasks have been compeleted. Give the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually, a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the begininng to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
@@ -101,7 +101,7 @@ These is the order to follow to make a good Production plan: Initial planning, F
 
 *Q*uality, *C*ost, *D*elivery (QCD):
 
--Is an analysis used to assess different components of the production process. **Quality** refers to the attribute expected by the client, **Cost** refers to the appropriate resource required to undertake the service and **Delivery** specify distributing completed service to client in a timely style. 
+Is an analysis used to assess different components of the production process. **Quality** refers to the attribute expected by the client, **Cost** refers to the appropriate resource required to undertake the service and **Delivery** specify distributing completed service to client in a timely style. 
 
 Quality on video games is difficult to analyse. But being on time and under budget is where you are going to have a game that is, actually, going to ship or not.  The Cost & Delivery are the most important here (unless you have unlimited money and time), the way to measure these things are the man-month before mentioned and directly reflects the common sentence "*Time is money*".
 
