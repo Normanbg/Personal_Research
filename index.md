@@ -24,6 +24,10 @@ First of all, we have to know that the game production pipeline is divided into 
 
 3·**POST-PRODUCTION:** is the time to get your game to an audience as large as possible and first, solve all the bugs possible with testers on a Beta. Then, the game is ready to buy. Developers can add new features to expand the game in order to increase the retention of the game.
 
+<img src="http://1.bp.blogspot.com/-rneaL5NCyx8/VdzlLlCT_FI/AAAAAAAAARg/i2LjDE9nG7U/s640/six%2Bsigma.jpg">
+
+*Image from [Oniralia Blogspot](http://oniralia.blogspot.com.es/)*
+
 Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
 
 It is done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
