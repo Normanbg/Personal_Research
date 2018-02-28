@@ -86,9 +86,7 @@ These is the order that a production plan: Initial planning, Feature list, Assig
 
 ·**SCHEDULE**: Here things get particularly complicated. Manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
 
-·**MILESTONES**: Indicates the percentatge of the tasks have been compeleted. Gives the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. 
-
-		 Usually a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the beggining to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
+·**MILESTONES**: Indicates the percentatge of the tasks have been compeleted. Gives the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the beggining to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
 
 
