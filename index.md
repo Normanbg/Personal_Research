@@ -52,8 +52,9 @@ The budget could be divided in 5 branches:
 
 5* **TRAVEL & ENTERTAINTMENT**.
 
+The aim of the production plan is not leaving anything open and contemplate all the possible problems and their solutions. I will like to mention a sentence that reflects what, probably, will happen if there are open parts of the production:
 
-
+-*Anything that can go wrong will go wrong* - Murphy's Law.
 
 
 
