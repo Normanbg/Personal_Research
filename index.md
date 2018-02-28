@@ -70,11 +70,37 @@ Production schedules are by their nature imprecise, as it is entirely based on e
 
 The buffer could be this: **_YOUR ESTIMATE + 20%_**. 
 
-## What should Production Plan has to contain?
+## Order to make a good Production plan:
 
 <img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
 
-These are what a good Production plan **must** have: Initial planning, Feature list, Break down of tasks, assign tasks, dependencies, schedule, milestones.
+These are what a good Production plan **must** have: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
+
+·**INITIAL PLANNING**: The design framework laid at the origin of the project will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
+
+·**FEATURE LIST**: Once the GDD is done, analyze it and determine the game's list of requirements. Each requirement needs to be splited into a list of features that will be required to implement it.
+
+·**ASSIGN TASKS**: Now it is when the team work together (if it is a small team the whole team work together, otherwise it will be done with the leads of each section) to break the features into tasks for each department. Then, the lead of each group has to create initial requirement estimates for each task and assign them to team members. This complete, he must ensure, with the members of his team, that his estimates are correct and reasonable.
+
+·**DEPENDENCIES**: Project manager takes all the task estimates and place them into a project management software (Jira, MS Project, Excel or similars). Once this is done, the manager **must** look at the tasks and match dependencies between teams. Doing that prevents creating a feature before that it is needed (e.g. To fully implement a racing game, you would not schedule the coding of fuel durability before the physics system is complete).  
+
+·**SCHEDULE**: Here things get particularly complicated. Manager assigns estimated start and end dates for each task. Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
+
+·**MILESTONES**: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 HOW TO PUT A VIDEO: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
