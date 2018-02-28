@@ -16,6 +16,8 @@ There are professional project management tools like Jira or MS Project that hel
 
 ## Aspects to take in account when doing a production plan:
 
+The game production pipeline is divided in 4 branches:
+1·**CONCEPT:** is just an idea of a game from where to start building it. This can be one example of an idea:  “Make a game about number matching”. As you can see, on this phase we do not find any gameplay, story, character, etc. Simply define a phrase that describes the essence of the game.
 
 HOW TO PUT A VIDEO: 
 
