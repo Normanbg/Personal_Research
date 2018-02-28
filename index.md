@@ -74,7 +74,7 @@ The buffer could be this: **_YOUR ESTIMATE + 20%_**.
 
 <img src="https://tops-secure-graphics.grocerywebsite.com/GraphicsShoppingList/ShoppingListIcon_221x221.png">
 
-These are what a good Production plan **must** have: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
+These is the order that a production plan: Initial planning, Feature list, Assign tasks, Dependencies, Schedule, Milestones.
 
 ·**INITIAL PLANNING**: The design framework laid at the origin of the project will detemine the course for the entire project's development. As mentioned before, at this step nothing is set in stone, but you should attempt to be as acurrarte as possible.
 
@@ -84,9 +84,11 @@ These are what a good Production plan **must** have: Initial planning, Feature l
 
 ·**DEPENDENCIES**: Project manager takes all the task estimates and place them into a project management software (Jira, MS Project, Excel or similars). Once this is done, the manager **must** look at the tasks and match dependencies between teams. Doing that prevents creating a feature before that it is needed (e.g. To fully implement a racing game, you would not schedule the coding of fuel durability before the physics system is complete).  
 
-·**SCHEDULE**: Here things get particularly complicated. Manager assigns estimated start and end dates for each task. Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
+·**SCHEDULE**: Here things get particularly complicated. Manager assigns estimated start and end dates for each task (Gantt chart). Manager has to take in account here the last aspect mention before, giving buffer to the schedule for things like employee sick time, unexpected delays on features, etc. This step is time-consuming, but brings directly an idea of how long will the project take to complete.
 
-·**MILESTONES**: 
+·**MILESTONES**: Indicates the percentatge of the tasks have been compeleted. Gives the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. 
+
+		 Usually a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the beggining to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
 
 
