@@ -10,6 +10,9 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 It is a document created collaborative among the team (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
 It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
+There are professional project management tools like Jira or MS Project that helps the production plan, but the simple spreadsheet production plan is a decent solution that works in a snap. Here you can see an example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).
+
+<img src="https://i.imgur.com/fLrgxGX.jpg">
 
 ##  When it is done? 
 
