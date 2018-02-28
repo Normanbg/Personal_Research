@@ -6,7 +6,7 @@ I am [Norman Benet](https://es.linkedin.com/in/NormanBenet), student of the
 [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s
 subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-## To start, here it is a brief explanation of production plan:
+## To start, here it is a brief explanation of production plan on videogames:
 
 It is a document created **collaborative among the team** (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
 It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
@@ -16,10 +16,13 @@ There are professional project management tools like Jira or MS Project that hel
 
 ## Aspects to take in account when doing a production plan:
 
-First of all, we have to know that game production pipeline is divided in 4 branches:
+First of all, we have to know that game production pipeline is divided in 3 branches:
 
-1·**CONCEPT:** is just an idea of a game from where to start building it. This can be one example of an idea:  “Make a game about number matching”. As you can see, on this phase we do not find any gameplay, story, character, etc. Simply define a phrase that describes the essence of the game.
+1·**PRE-PRODUCTION:** first, is time to have just an idea of a game from where to start building (e.g. “Make a game about number matching”).Having this, is time to define all the details and came out with a **solid** game concept. Documents like [Game Design Document](https://en.wikipedia.org/wiki/Game_design_document), [Technical Design Document](https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd), [Paper Prototype](http://gamedevelopertips.com/paper-prototyping-game-development/) are done here.
+2·**PRODUCTION:** here is where the designer, engineers, producers and basically all the members of the team will work together to bring the game to life. It is important to know that changes in this phase will cost a lot in terms of time and money to invest.
+3·**POST-PRODUCTION:** is the time to get your game to an audience as large as possible and first, solve all the bugs posible with testers on a Beta. Then, the game is ready to buy. Developers can add new features to expand the game in order to increase the retention of the game.
 
+ 
 HOW TO PUT A VIDEO: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GiHrWDm7B6M" frameborder="0" allowfullscreen></iframe>
