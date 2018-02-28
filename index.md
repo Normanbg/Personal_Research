@@ -38,15 +38,15 @@ Organized by categories the costs are the following:
 
 The budget could be divided in 5 branches:
 
-1·**SALARIES**.
+1* **SALARIES**.
 
-2·**GENERAL & ADMINISTRATIVE**.
+2* **GENERAL & ADMINISTRATIVE**.
 
-3·**RESEARCH & DEVELOPMENT**.
+3* **RESEARCH & DEVELOPMENT**.
 
-4·**LICENSES**.
+4* **LICENSES**.
 
-5·**TRAVEL & ENTERTAINTMENT**.
+5* **TRAVEL & ENTERTAINTMENT**.
 
 
 
