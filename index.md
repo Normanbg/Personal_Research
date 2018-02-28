@@ -112,9 +112,7 @@ Quality on video games is difficult to analyse. But being on time and under budg
 
 If you are attending to the presentation, enter [here](https://goo.gl/forms/sDCBfKuKF2oy6UnA3) and submit your response of the exercise. If you are only a reader of this research, try to make the production plan of the game Jetpack Joyride by Halfbrick Studios and send me an email *normanbg98@gmail.com* with the excel document if you want feedback. 
 
-See the video below to know all the aspects to take in account: 
-
-<iframe width="560" height="315" src="https://youtu.be/ZGxIpzzLo4k" frameborder="0" allowfullscreen></iframe>
+See this [video](https://youtu.be/ZGxIpzzLo4k) to know all the aspects to take in account.
 
 ## Bibliography: 
 - [https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php](https://www.gamasutra.com/view/news/228260/Kellee_Santiagos_10step_video_game_production_plan.php)
