@@ -25,7 +25,6 @@ First of all, we have to know that the game production pipeline is divided into 
 3·**POST-PRODUCTION:** is the time to get your game to an audience as large as possible and first, solve all the bugs possible with testers on a Beta. Then, the game is ready to buy. Developers can add new features to expand the game in order to increase the retention of the game.
 
 <img src="http://1.bp.blogspot.com/-rneaL5NCyx8/VdzlLlCT_FI/AAAAAAAAARg/i2LjDE9nG7U/s640/six%2Bsigma.jpg">
-
 *Image from [Oniralia Blogspot](http://oniralia.blogspot.com.es/)*
 
 Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
