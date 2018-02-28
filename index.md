@@ -10,14 +10,16 @@ subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.lin
 
 It is a document created **collaborative among the team** (if it is a small team, it will be done with whole team, if it is a big one, it will be done with the leads of each section), as it affects each member of the team directly. 
 It serves as a comprehensive task list of everything that needs to be implemented in the game and all of the components thereof. Which is then given a man-month requirement individually to help to define a most likely rough timeline for the development engagement.
-There are professional project management tools like Jira or MS Project that helps the production plan, but the simple spreadsheet production plan is a decent solution that works in a snap. *Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
+There are professional project management tools like Jira or MS Project that helps the production plan, but the simple spreadsheet production plan is a decent solution that works in a snap.
 
 <img src="https://i.imgur.com/fLrgxGX.jpg">
 *Example in excel from a [Business Model Report](https://zoltanjakibcfe.weebly.com/career-development-for-the-computer-games-industry.html).*
 
 ## Aspects to take in account when doing a production plan:
 
-First of all, we have to know that the game production pipeline is divided into 3 branches:
+#First of all:
+
+We have to know that the game production pipeline is divided into 3 branches:
 
 1·**PRE-PRODUCTION:** is time to have just an idea of a game from where to start building (e.g. “Make a game about number matching”).Having this, it is time to define all the details and came out with a **solid** game concept. Documents like [Game Design Document "GDD"](https://en.wikipedia.org/wiki/Game_design_document), [Technical Design Document "TDD"](https://www.studytonight.com/3d-game-engineering-with-unity/tdd-and-gdd), [Paper Prototype](http://gamedevelopertips.com/paper-prototyping-game-development/) are done here.
 
@@ -28,9 +30,13 @@ First of all, we have to know that the game production pipeline is divided into 
 <img src="http://1.bp.blogspot.com/-rneaL5NCyx8/VdzlLlCT_FI/AAAAAAAAARg/i2LjDE9nG7U/s640/six%2Bsigma.jpg">
 *Image from [Oniralia Blogspot](http://oniralia.blogspot.com.es/)*
 
+#Second:
+
 Now, knowing the pipeline a question can come to us: **When is the Production Plan done?**
 
 It is done at the earliest of the pipeline, on the pre-production, to have a schedule for the Concept creation and all the details defined. But, once the GDD and TDD are done, we have the enough information to determine the staff size. After the staffing plan* the planning will be mostly accurrate (Mostly? Yes, making games is "a bit" unpredictable). 
+
+#Third:
 
 The production plan estimates the cost of the total production of the game. A simple list of costs on making a game could be this one:
 
@@ -52,9 +58,17 @@ The budget could be divided in 5 branches:
 
 5* **TRAVEL & ENTERTAINTMENT**.
 
-The aim of the production plan is not leaving anything open and contemplate all the possible problems and their solutions. I will like to mention a sentence that reflects what, probably, will happen if there are open parts of the production:
+#Fourth
+
+Momentarily, we know basically how the costs are broken. The aim of the production plan is not leaving anything open and contemplate all the possible problems and their solutions. I will like to mention a sentence that reflects what, probably, will happen if there are open parts of the plan:
 
 -*Anything that can go wrong will go wrong* - Murphy's Law.
+
+#Fifth
+
+Production schedules are, by their nature, imprecise, as it is entirely based on estimates and not actual development. This directly says that when you make a schedule, give a development time buffer. You will be glad you did. 
+
+The buffer could be this: **_YOUR ESTIMATE + 20%_**. 
 
 
 
