@@ -96,7 +96,7 @@ These is the order and the must-haves to follow to make a good Production plan: 
 
 ·**MILESTONES**: Indicate the percentage of the tasks have been compeleted. Give the team specific goals to aim for and when working with a publisher, milestones determine when the developing studio is paid. Usually, a game has these three milestones: **Vertical Slice** (representative sample of the game you want to make. Key features of art, code and design), **Alpha** (game playable from the begininng to the end and all features implemented) and **Beta** (everything is solid, just fix bugs).
 
-
+<img src="https://i.imgur.com/cg4S3SN.png"> *Example of Production plan with all aspects on [Portal](http://www.valvesoftware.com/games/portal.html)*.
 ## Way to make easier your Production plan:
 
 **Q**uality, **C**ost, **D**elivery (QCD):
