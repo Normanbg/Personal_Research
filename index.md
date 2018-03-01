@@ -110,7 +110,7 @@ Quality on video games is difficult to analyse. But being on time and under budg
 
 ## Exercises to practise:
 
-If you are attending to the presentation this is the [TEMPLATE](https://drive.google.com/file/d/1cfCvNGrS-K0JfiTTh-S0_jNuIDDpg_iY/view?usp=sharing).To submit your response of the exercise enter [here](https://goo.gl/forms/sDCBfKuKF2oy6UnA3). If you are only a reader of this research, try to make the production plan of the game Jetpack Joyride by Halfbrick Studios and send me an email *normanbg98@gmail.com* with the excel document if you want feedback. 
+If you are attending to the presentation this is the [TEMPLATE](https://drive.google.com/file/d/1cfCvNGrS-K0JfiTTh-S0_jNuIDDpg_iY/view?usp=sharing). To submit your response of the exercise enter [here](https://goo.gl/forms/sDCBfKuKF2oy6UnA3). If you are only a reader of this research, try to make the production plan of the game Jetpack Joyride by Halfbrick Studios and send me an email *normanbg98@gmail.com* with the excel document if you want feedback. 
 
 See this [video](https://youtu.be/ZGxIpzzLo4k) to know all the aspects to take in account.
 
